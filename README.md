@@ -21,7 +21,7 @@
 
 ## Contato
 
-- 📧 Email: [matheusnrs@id.uff.br]
+- 📧 Email: matheusnrs@id.uff.br
 
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
