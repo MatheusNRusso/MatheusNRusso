@@ -13,12 +13,6 @@
 - **Banco de Dados**: MySQL, PostgreSQL.
 - **Outros**: Algoritmos, Estruturas de Dados, Desenvolvimento Ágil.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusNRusso&show_icons=true&theme=dark)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNRusso&layout=compact&theme=dark)
-
 ## Contato
 
 - 📧 Email: matheusnrs@id.uff.br
