@@ -1,0 +1,55 @@
+# Dependências e diretórios comuns
+/vendor/
+/node_modules/
+/.env
+.env.*
+*.log
+*.bak
+*.swp
+
+# Arquivos de build temporários
+*.cache
+*.tmp
+*.lock
+*.pid
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs e dumps
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do sistema hospitalar (caso esteja usando Laravel ou PHP puro)
+composer.lock
+package-lock.json
+/public/storage
+/storage/*.key
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Frontend
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+
+# Outros arquivos pessoais
+*.zip
+*.tar.gz
+*.rar
+*.7z
