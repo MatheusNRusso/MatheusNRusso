@@ -1,6 +1,6 @@
 # Olá! Eu sou o Matheus Nogueira Russo
 
-### Desenvolvedor em formação — Foco em Backend e Sistemas Web
+### Desenvolvedor  — Foco em Backend e Sistemas Web
 
 ---
 
