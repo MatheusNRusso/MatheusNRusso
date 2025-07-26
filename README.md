@@ -8,7 +8,7 @@
 
 - Graduado em **Tecnologia em Sistemas de Computação** pela UFF.
 - Atualmente me especializando em **desenvolvimento backend**, APIs e automação.
-- Apaixonado por resolver problemas reais com código e sempre em busca de **novos desafios**.
+- Motivado por desafios e em constante busca por aprendizado prático e evolução profissional.
 
 ---
 
