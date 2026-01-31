@@ -1,32 +1,51 @@
-# Olá! Eu sou o Matheus Nogueira Russo
+# Matheus Nogueira Russo
 
-### Desenvolvedor  — Foco em Backend e Sistemas Web
-
----
-
-## 🎓 Sobre Mim
-
-- Graduado em **Tecnologia em Sistemas de Computação** pela UFF.
-- Atualmente me especializando em **desenvolvimento backend**, APIs e automação.
-- Motivado por desafios e em constante busca por aprendizado prático e evolução profissional.
+## Desenvolvedor Backend com foco em APIs, integração de sistemas e Machine Learning aplicado
 
 ---
 
-## 🛠️ Habilidades
+Sou graduado em **Tecnologia em Sistemas de Computação** pela **Universidade Federal Fluminense (UFF)**.  
+Atuo no desenvolvimento backend, com foco na construção de **APIs REST**, **integração entre serviços** e **aplicações práticas de Machine Learning**.
 
-- **Linguagens**: Java · Python · PHP · JavaScript  
-- **Frameworks**: Spring Boot · React  
-- **Ferramentas**: Git · Docker · VS Code  
-- **Bancos de Dados**: MySQL · PostgreSQL  
-- **Outros**: Estruturas de Dados · Algoritmos · Metodologias Ágeis
+Tenho trabalhado em projetos que integram **serviços Python para inferência de modelos** com **APIs Java (Spring Boot)**, priorizando organização de código, validação de dados e versionamento.
 
----
-
-## 📫 Contato
-
-- 📧 matheusnrs@id.uff.br  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-nrusso)
+Busco desenvolver soluções robustas, testáveis e próximas de cenários reais de produção.
 
 ---
 
-⭐️ Explore meus repositórios e fique à vontade para entrar em contato!
+## Tecnologias
+
+**Linguagens**
+- Java  
+- Python  
+
+**Backend e APIs**
+- Spring Boot  
+- FastAPI  
+- REST APIs  
+- Integração entre serviços (Java ↔ Python)
+
+**Machine Learning**
+- scikit-learn  
+- Pipelines de pré-processamento  
+- Modelos supervisionados  
+- Serialização de modelos (joblib)  
+- Inferência via API  
+
+**Bancos de dados**
+- PostgreSQL  
+- MySQL  
+
+**Ferramentas e práticas**
+- Git e GitHub  
+- Docker  
+- Linux  
+- Estruturação de projetos  
+- Testes via terminal (curl)
+
+---
+
+## Contato
+
+- Email: **matheusnrs@id.uff.br**  
+- LinkedIn: https://www.linkedin.com/in/matheus-nrusso  
