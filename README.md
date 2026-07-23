@@ -4,11 +4,7 @@
 
 ---
 
-Sou graduado em **Tecnologia em Sistemas de Computação** pela **Universidade Federal Fluminense (UFF)**.
-
 Atuo no desenvolvimento backend com foco na construção de **APIs REST escaláveis**, **integração entre serviços** e **infraestrutura Web3**. Tenho trabalhado em projetos que integram **pagamentos em blockchain (Solana Pay)**, **autenticação & autorização (JWT)**, **comunicação em tempo real** e **integração com terceiros (Meta CAPI, Google Ads, Pipedrive CRM)**.
-
-Priorizo **organização de código**, **validação rigorosa de dados**, **padrões arquiteturais sólidos** e **soluções robustas, testáveis e próximas de cenários reais de produção**.
 
 ---
 
